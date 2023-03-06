@@ -17,6 +17,7 @@
 * Certificados digitales
 
 <h2>PRACTICA INCREMENTAL</h2>
+
 * Sistema de navegación
   * Hito 1. Reconstruir la red de calles en una ciudad
   * Hito 2. Diseño de un sencillo GPS
