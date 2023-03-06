@@ -8,6 +8,8 @@
 * Tema 6: INTRODUCCION AL ALGEBRA LINEAL
 
 <h2>LABORATOIO</h2>
+* Tema 5: ARITMETICA
+* Tema 6: INTRODUCCION AL ALGEBRA LINEAL
 * Complejidad
 * Número de particiones
 * Problema del camino mínimo
